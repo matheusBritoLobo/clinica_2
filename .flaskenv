@@ -1,0 +1,2 @@
+FLASK_APP=clinica.py
+FLASK_ENV=development
